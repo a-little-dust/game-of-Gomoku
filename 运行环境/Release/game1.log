@@ -1,0 +1,18 @@
+﻿  test.cpp
+D:\course_design\game1\test.cpp(177,29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\course_design\game1\test.cpp(181,29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\course_design\game1\test.cpp(185,30): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\course_design\game1\test.cpp(545,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(546,90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(547,89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(548,89): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(550,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(565,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(680,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(806,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(829,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(830,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\course_design\game1\test.cpp(864,29): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\course_design\game1\test.cpp(868,28): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:REF”规范)
+  game1.vcxproj -> D:\course_design\game1\x64\Release\game1.exe
